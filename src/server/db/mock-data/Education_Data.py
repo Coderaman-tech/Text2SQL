@@ -545,7 +545,7 @@ def generate_mid_day_meal_data():
 # In[ ]:
 
 startTime = time.time()
-generateSchoolData(50)
+generateSchoolData(5)
 generateClassData()
 generateSubjectData()
 generateStudents()
