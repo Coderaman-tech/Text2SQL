@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Set the API endpoint URL
-API_ENDPOINT="https://5078-samagradevelop-text2sql-pwwgr098o8q.ws-us98.gitpod.io/onboard"
+API_ENDPOINT="https://5078-coderamantech-text2sql-acdwnra86vj.ws-us98.gitpod.io/onboard"
 
 # Set the path to the schema file
 SCHEMA_FILE="./school.sql"
