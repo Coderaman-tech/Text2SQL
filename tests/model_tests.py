@@ -1,5 +1,6 @@
 import unittest
 import os
+from src/server/utils.py utils import detect_lang, chatGPT, get_response, validate_schema_file
 
 
 class Tests(unittest.TestCase):
@@ -34,5 +35,6 @@ class Tests(unittest.TestCase):
         pass
 
 if __name__ == "__main__":
+    # model_test.run()
     # run tests
     pass
